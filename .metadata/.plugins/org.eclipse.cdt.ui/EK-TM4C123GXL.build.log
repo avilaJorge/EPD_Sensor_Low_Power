@@ -1,0 +1,14 @@
+
+**** Clean-only build of configuration PDI APPs for project EK-TM4C123GXL ****
+
+"C:\\ti\\ccsv6\\utils\\bin\\gmake" -k clean 
+DEL /F  "F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_21\EPD Extension Board Gen2 (EXT2)_v1.21 formal\output\EK-TM4C123GXL.out"  "F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_21\EPD Extension Board Gen2 (EXT2)_v1.21 formal\output\EK-TM4C123GXL.bin" 
+§ä¤£¨ì F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_21\EPD Extension Board Gen2 (EXT2)_v1.21 formal\output\EK-TM4C123GXL.out
+DEL /F "tm4c123gh6pm_startup_ccs.pp" "src\main_PDI_APPs.pp" "src\PDI_displays_drivers\FPL_drivers\eTC_G1_Size_Aurora_Mb.pp" "src\PDI_displays_drivers\FPL_drivers\eTC_G2_Size_Aurora_Ma.pp" "src\PDI_displays_drivers\FPL_drivers\eTC_G2_Size_Aurora_Mb.pp" "src\PDI_displays_drivers\FPL_drivers\iTC_215_Aurora_Mb.pp" "src\PDI_displays_drivers\FPL_drivers\iTC_287_Aurora_Mb.pp" "src\PDI_displays_drivers\FPL_drivers\iTC_287_Spectra.pp" "src\PDI_displays_drivers\FPL_drivers\iTC_420_Aurora_Mb.pp" "src\PDI_displays_drivers\FPL_drivers\iTC_420_Spectra.pp" "src\PDI_displays_drivers\FPL_drivers\iTC_Engine.pp" "src\PDI_displays_drivers\EPD_interface.pp" "src\PDI_apps_drivers\BootTask_Module.pp" "src\PDI_apps_drivers\CommandHandle.pp" "src\PDI_apps_drivers\Data_Module.pp" "src\PDI_apps_drivers\Rtos.pp" "src\HW_drivers\usb\usb_Driver.pp" "src\HW_drivers\usb\usb_serial_structs.pp" "src\HW_drivers\Board_HW_Driver.pp" "src\HW_drivers\EPD_Temperature_IIC.pp" "src\HW_drivers\Flash_Mem_Map.pp" "src\HW_drivers\Mem_Flash.pp" 
+DEL /F "src\HW_drivers\ringbuf.pp" "src\HW_drivers\uart_Driver.pp" 
+DEL /F "tm4c123gh6pm_startup_ccs.obj" "src\main_PDI_APPs.obj" "src\PDI_displays_drivers\FPL_drivers\eTC_G1_Size_Aurora_Mb.obj" "src\PDI_displays_drivers\FPL_drivers\eTC_G2_Size_Aurora_Ma.obj" "src\PDI_displays_drivers\FPL_drivers\eTC_G2_Size_Aurora_Mb.obj" "src\PDI_displays_drivers\FPL_drivers\iTC_215_Aurora_Mb.obj" "src\PDI_displays_drivers\FPL_drivers\iTC_287_Aurora_Mb.obj" "src\PDI_displays_drivers\FPL_drivers\iTC_287_Spectra.obj" "src\PDI_displays_drivers\FPL_drivers\iTC_420_Aurora_Mb.obj" "src\PDI_displays_drivers\FPL_drivers\iTC_420_Spectra.obj" "src\PDI_displays_drivers\FPL_drivers\iTC_Engine.obj" "src\PDI_displays_drivers\EPD_interface.obj" "src\PDI_apps_drivers\BootTask_Module.obj" "src\PDI_apps_drivers\CommandHandle.obj" "src\PDI_apps_drivers\Data_Module.obj" "src\PDI_apps_drivers\Rtos.obj" "src\HW_drivers\usb\usb_Driver.obj" "src\HW_drivers\usb\usb_serial_structs.obj" "src\HW_drivers\Board_HW_Driver.obj" "src\HW_drivers\EPD_Temperature_IIC.obj" "src\HW_drivers\Flash_Mem_Map.obj" "src\HW_drivers\Mem_Flash.obj" 
+DEL /F "src\HW_drivers\ringbuf.obj" "src\HW_drivers\uart_Driver.obj" 
+'Finished clean'
+' '
+
+**** Build Finished ****

@@ -1,0 +1,36 @@
+!SESSION 2017-08-17 14:06:15.449 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product -data C:\Users\avila\Downloads\PDI\EPD Extension Board Gen2 (EXT2)_v1.21 -product com.ti.ccstudio.branding.product
+
+This is a continuation of log file C:\Users\avila\Downloads\PDI\EPD Extension Board Gen2 (EXT2)_v1.21\.metadata\.bak_0.log
+Created Time: 2017-08-17 14:06:16.818
+!SESSION 2017-08-17 14:06:15.449 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product -data C:\Users\avila\Downloads\PDI\EPD Extension Board Gen2 (EXT2)_v1.21 -product com.ti.ccstudio.branding.product
+
+!ENTRY com.ti.common.core 4 0 2017-08-17 14:06:16.818
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2017-08-17 14:06:16.819
+!MESSAGE debugServerDir=C:/ti/ccsv7/ccs_base/DebugServer
+!SESSION 2017-08-17 17:21:59.412 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ti.ccstudio.branding.product -product com.ti.ccstudio.branding.product -data C:\Users\avila\workspace_v7\EPD Extension Board Gen2 (EXT2)_v1.21 -product com.ti.ccstudio.branding.product
+
+!ENTRY com.ti.common.core 4 0 2017-08-17 17:22:00.619
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2017-08-17 17:22:00.620
+!MESSAGE debugServerDir=C:/ti/ccsv7/ccs_base/DebugServer

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="LicensetupDialog">
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="164" key="DIALOG_Y_ORIGIN"/>
+		<item value="527" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="525" key="dialogHeight"/>
+		<item value="1025" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
+	<section name="MemoryDumperSaveAction">
+		<item value="false" key="MemoryDumperMemoryBlockPage.STORE_SWAP_ID"/>
+		<item value="0x200000E4" key="MemoryDumperMemoryBlockPage.STORE_ADDRESS_EXPRESSION_ID"/>
+		<item value="C:\Users\avila\workspace_v7\Data Files\PDI_Apps_UART_5.dat" key="MemoryDumperFileSelectionPage.STORE_FILE_PATH_ID"/>
+		<item value="3" key="MemoryDumperMemoryBlockPage.STORE_TYPE_SIZE_ID"/>
+		<item value="15000" key="MemoryDumperMemoryBlockPage.STORE_SIZE_ID"/>
+		<item value="false" key="MemoryDumperMemoryBlockPage.STORE_SPECIFY_DATA_DIMENSION_SIZE_ID"/>
+		<item value="" key="MemoryDumperMemoryBlockPage.STORE_ROW_COUNT_ID"/>
+		<item value="15" key="MemoryDumperMemoryBlockPage.STORE_FILE_FORMAT_NAME_ID"/>
+		<item value="" key="MemoryDumperMemoryBlockPage.STORE_COLUMN_COUNT_ID"/>
+		<item value="TI Raw Data" key="MemoryDumperFileSelectionPage.STORE_FILETYPE_ID"/>
+		<item value="true" key="MemoryDumperMemoryBlockPage.STORE_SPECIFY_DATA_BLOCK_SIZE_ID"/>
+		<item value="8-Bit UnSigned Int" key="MemoryDumperMemoryBlockPage.STORE_FILE_FORMAT_TYPE_ID"/>
+		<item value="false" key="MemoryDumperFileSelectionPage.STORE_USE_FILE_HEADER"/>
+		<item value="false" key="MemoryDumperMemoryBlockPage.STORE_APPEND_ID"/>
+		<item value="" key="MemoryDumperMemoryBlockPage.STORE_PAGE_ID"/>
+		<item value="64" key="MemoryDumperMemoryBlockPage.STORE_TYPE_SIZE_VALUE_ID"/>
+		<list key="MemoryDumperMemoryBlockPage.STORE_ADDRESS_RANGE_LENGTH_ID">
+			<item value="15000"/>
+		</list>
+		<list key="MemoryDumperMemoryBlockPage.STORE_SIZE_VALUE_ID">
+			<item value="3a98"/>
+		</list>
+		<list key="MemoryDumperMemoryBlockPage.STORE_ADDRESS_VALUE_ID">
+			<item value="200000e4"/>
+		</list>
+		<list key="MemoryDumperMemoryBlockPage.STORE_ADDRESS_RANGE_EXPRESSION_ID">
+			<item value="0x200000E4"/>
+		</list>
+	</section>
+	<section name="MemoryDumperFillAction">
+	</section>
+	<section name="FileSystemExportWizard">
+		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID"/>
+		<item value="true" key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="F:\PDI\Kit\output"/>
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="330" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft JhengHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft JhengHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="439" key="DIALOG_HEIGHT"/>
+		<item value="236" key="DIALOG_Y_ORIGIN"/>
+		<item value="803" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.cdt.ui.projectSettingsExportWizard" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.cdt.ui.exportWizardCategory"/>
+			<item value="org.eclipse.equinox.p2.category"/>
+			<item value="org.eclipse.rse.importexport.exportWizards"/>
+			<item value="org.eclipse.debug.ui"/>
+			<item value="org.eclipse.team.ui.exportWizards"/>
+		</list>
+	</section>
+	<section name="PreferencesExportWizard">
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="WORKSPACE_LOC" key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_NAME_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_VIRTUAL_FOLDERS_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_SELECTED_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_LINKS_IN_WORKSPACE_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_20\EPD Extension Board Gen2 (EXT2)_v1.20 formal\Images"/>
+			<item value="F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_12\EPD Extension Board Gen2 (EXT2)_v1.20 full\EPD_drivers\src\FPL_drivers"/>
+			<item value="F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_12\EPD Extension Board Gen2 (EXT2)_v1.12 full\EPD_drivers\src\LUC"/>
+			<item value="F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_12\EPD Extension Board Gen2 (EXT2)_v1.12 full\EPD_drivers\src"/>
+			<item value="F:\PDI\Kit\EPD Extension Board GEN2\fw\V1_12\EPD Extension Board Gen2 (EXT2)_v1.12 full\EPD_drivers\src\FPL_drivers"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="F:\PDI\Kit\output\pdi.zip"/>
+		</list>
+	</section>
+	<section name="CopyToMemoryAction">
+	</section>
+</section>
